@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "react",
+      "body": "react is awesome",
+      "author": "Nikhil",
+      "id": 1
+    },
+    {
+      "title": "Bangalore",
+      "body": "A place where every journey starts",
+      "author": "Nikhil",
+      "id": 2
+    }
+  ]
+}
